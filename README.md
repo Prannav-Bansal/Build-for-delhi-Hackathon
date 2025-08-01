@@ -1,8 +1,10 @@
-# 🚀 TEAM - Igniters - Build for Delhi: Space Station Object Detection using YOLOv8 (Duality AI Hackathon)
+# 🚀 TEAM - Igniters - Build for Delhi: Space Station Object Detection using YOLOv8 (Duality AI Hackathon) Pranav Bansal , Aarjav Jain , Gunnotam maini
 
-#Demo Video - https://drive.google.com/file/d/10PXAvwdejA1atQFBpzNOn7ec88K_hkdt/view?usp=drive_link
+#Demo Video UI - https://drive.google.com/file/d/10PXAvwdejA1atQFBpzNOn7ec88K_hkdt/view?usp=drive_link
 
 #Report Link with All SCREEN SHOTS - https://drive.google.com/file/d/1XWReM5Jxc2S-NVmKeRBjbfIcac36AzBm/view?usp=sharing
+
+#PPT - https://drive.google.com/file/d/19ss8i8PJ9KKr4yjaYIh7lOPDbeIOhTfW/view
 
 ## 🧠 Overview
 
