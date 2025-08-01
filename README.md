@@ -1,4 +1,4 @@
-# 🚀 Build for Delhi: Space Station Object Detection using YOLOv8 (Duality AI Hackathon)
+# 🚀 TEAM - Igniters - Build for Delhi: Space Station Object Detection using YOLOv8 (Duality AI Hackathon)
 
 #Demo Video - https://drive.google.com/file/d/10PXAvwdejA1atQFBpzNOn7ec88K_hkdt/view?usp=drive_link
 
